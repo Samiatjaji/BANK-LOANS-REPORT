@@ -1,4 +1,4 @@
-![form](https://github.com/user-attachments/assets/e9662619-db7d-4775-9754-d047d6f35d70)# BANK-LOANS-REPORT
+# BANK-LOANS-REPORT
 
 ![form](https://github.com/user-attachments/assets/9996cfa9-abe0-42cf-86f3-180a29d460b4)
 
@@ -7,7 +7,7 @@ BACK STORY
 This is an excel project on a bank loan data. This project is to analyse and derive insights to answer critical questions and allow these Insights/answers provided to be used to make better decisions going forward as a bank.
 
 # Dataset used
-The dataset was downloaded from kaggle. Download [here]()
+The dataset was downloaded from kaggle. Download [here](https://github.com/Samiatjaji/BANK-LOANS-REPORT/blob/main/financial_loan.csv)
 
 # Data Analysis process
 A series of steps must be carried out to interpret this information. The steps u used in this process are listed below:
@@ -108,4 +108,11 @@ Meanwhile, Bad Loans (5.3K) only amount to 13.82% of the total applications wher
 ![Total Loan by home](https://github.com/user-attachments/assets/b2347e6a-b13a-4f80-a93f-19dca8b73974)
 
 
+#Recommendation
 
+
+
+
+
+
+#Conclusion
