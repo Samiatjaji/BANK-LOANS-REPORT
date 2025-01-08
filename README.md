@@ -47,7 +47,7 @@ The dataset used was a clean one. I had to convert from a csv to xlx file and cr
 ![IF statement](https://github.com/user-attachments/assets/654fdc3f-16f8-4e31-ad17-381ccdafc294)
 
 
-All further analysis are in the design sheets of the interactive [dashboard]()
+All further analysis are in the design sheets of the interactive [dashboard](https://github.com/Samiatjaji/BANK-LOANS-REPORT/blob/main/Dashboard%20Analysis.xlsx)
 
 
 ## Visualisation
