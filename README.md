@@ -69,10 +69,11 @@ At the top, KPIs such as total applications, total funded amount, total amount r
 - The Average Debt-to-income ratio is 13.33% with MoM increase of 2.7% and MTD of 13.67% further suggests that borrowers may have a relatively high level of existing debt. This could pose a risk to loan repayment.
 
 - Good Loans Issued vs Bad Loans Issued
+
+![Good Bad loans](https://github.com/user-attachments/assets/3a58867b-3dbe-4e84-aa32-39b6c26b4d55)
+
 Out of the Total Applications of loans approved, 86.18% of them were good loans (i.e a payment plan has been paid fully or still ongoing). This is 33.2K of total applications and funded amount is $370.2M while the amount received is $435.8M.  This shows that adequate requirements and practices are being followed to ensure repayment of loans.
 Meanwhile, Bad Loans (5.3K applications) only amount to 13.82% of the total applications where $65.5M applications were funded and $37.3M was received back.This is low compared to good loans but its still a potential area for risk management improvement. 
-
-![Good Bad loans](https://github.com/user-attachments/assets/7ea52b30-654d-4423-9089-29ebadb2e391)
 
 
 - Secondary KPIs
