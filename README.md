@@ -87,7 +87,7 @@ The chart clearly shows an upward trend in loan applications throughout the year
 
 ![Total Loan by state](https://github.com/user-attachments/assets/199aec4c-fe55-421d-9580-33a9236bf968)
 
-The map visually represents the distribution of loan applications across different states in the United States. The color intensity indicates the number of loan applications with darker colors representing higher application volumes. States like ---- with higher costs of living might have a highr demand for loans for their expenses such as housing and education.
+The map visually represents the distribution of loan applications across different states in the United States. The color intensity indicates the number of loan applications with darker colors representing higher application volumes. States like California CA, New York NY, Texas TX with higher costs of living might have a higher demand for loans for their expenses such as housing and education.
 
 - Total Loan Application by Term
 
