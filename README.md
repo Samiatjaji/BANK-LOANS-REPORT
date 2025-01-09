@@ -2,7 +2,7 @@
 
 ![form](https://github.com/user-attachments/assets/9996cfa9-abe0-42cf-86f3-180a29d460b4)
 
-BACK STORY
+BACK STORY year 2021
 # Introduction 
 This is an excel project on a bank loan data. This project is to analyse and derive insights to answer critical questions and allow these Insights/answers provided to be used to make better decisions going forward as a bank.
 
@@ -75,33 +75,33 @@ At the top, KPIs such as total applications, total funded amount, total amount r
 Out of the Total Applications of loans approved, 86.18% of them were good loans (i.e a payment plan has been paid fully or still ongoing). This is 33.2K of total applications and funded amount is $370.2M while the amount received is $435.8M.  This shows that adequate requirements and practices are being followed to ensure repayment of loans.
 Meanwhile, Bad Loans (5.3K applications) only amount to 13.82% of the total applications where $65.5M applications were funded and $37.3M was received back.This is low compared to good loans but its still a potential area for risk management improvement. 
 
-
 - Secondary KPIs
 
 ![Fully paid etc](https://github.com/user-attachments/assets/8ceef71d-2843-4650-9cb5-486fd7d65290)
 
-The dashboard provides a breakdown of loan performance based on the loan status. Majority of loan applications have been fully paid off indicating a positive trend while a smaller portion have been charged off and some loans are currently active and being repaid.
+The dashboard provides a breakdown of loan performance based on the loan status. Majority of loan applications (32.1K) have been fully paid off ($351.4M) indicating a positive trend while a smaller portion (5.3K) have been charged off and some loans are currently active and being repaid (1.1K). The fully paid category has the highest funded amount ($351.4M) reflecting a significant volume of repaid loans while the "charged off" category has a funded amount of $65.5M representing a loss for the bank. The Interest rates vary across loan statuses with "current" loans generally having a higher interest rate (15.10%). The DTI also varies across loan statuses including potential risk factors associated with "charged off" (14.72%) 
 
 ### Overview Dashboard 
 
 ![Overview Report](https://github.com/user-attachments/assets/ecdc9651-c026-419c-8f9b-33f233d7588a)
 
-
 - Total Loan Application by Month
 
 ![Total loan by month](https://github.com/user-attachments/assets/fc4c0df5-f516-4e9d-a951-51dc8737eaac)
 
-
+The chart clearly shows an upward trend in loan applications throughout the year. The number of applicants steadily increases from January to December with Decemeber having the highest loan applications (4.3K)
 
 - Total Loan Application by State 
 
 ![Total Loan by state](https://github.com/user-attachments/assets/199aec4c-fe55-421d-9580-33a9236bf968)
 
+The map visually represents the distribution of loan applications across different states in the United States. The color intensity indicates the number of loan applications with darker colors representing higher application volumes. States like ---- with higher costs of living might have a highr demand for loans for their expenses such as housing and education.
 
 - Total Loan Application by Term
 
 ![Total Loan by term](https://github.com/user-attachments/assets/227e65b6-39e2-495e-bbd2-6c9b15c4660e)
 
+When it comes to Loan Term, Borrowers generally prefer short term loans to long term loans. 28.2K applicants take loans within 36 months repayment plan while 10.3K take the 60 months plan.  
 
 - Total Loan Application by Employee length 
 
