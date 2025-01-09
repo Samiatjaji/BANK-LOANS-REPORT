@@ -54,7 +54,7 @@ At the top, KPIs such as total applications, total funded amount, total amount r
 ![KPIs](https://github.com/user-attachments/assets/cf916956-e5cc-4e6f-8400-1e447a614fd2)
 
 
-- The total loan application is 38.6K with a month-over-month increase of 6.9% and month-to-date of 4.3K application. This indicates an positive trend in loan demand and that the bank is actively attracting new loan applicants.
+- The total loan application is 38.6K with a month-over-month increase of 6.9% and month-to-date of 4.3K application. This indicates a positive trend in loan demand and that the bank is actively attracting new loan applicants.
 - The total funded amount by the bank is $435.8M with MoM increase of 13% and MTD of $54.0M. This shows that the bank is succesffully approving and funding a significant portion of loan applications.
 - The total amount received is $473.1M with MoM increase of 15.8% and MTD of $58.1M shows that repayments are coming in at a healthy pace
 - The average Interest rate is 12.05% with MoM increase of 3.5% and MTD of 12.36%
