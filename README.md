@@ -54,18 +54,21 @@ All further analysis are in the design sheets of the interactive [dashboard](htt
 I created a grid view report categorised by 'Loan status' in order to get a completely cover the data and hence enforce the right decisions on the bank's health Portfolio. 
 
 ### Summary Dashboard 
-At the top, KPIs such as total applications, total funded amount, total amount received, average interest rate and average DTI are displayed alongside their month-over-month and month-to-date changes showing performance trends.
-- The total loan application is 38.6K with a month-over-month increase of 6.9% and month-to-date of 4.3K application.
-- The total funded amount by the bank is $435.8M with MoM increase of 13% and MTD of $54M 
-- The total amount received is $473.1M with MoM increase of 15.8% and MTD of $58.1M 
-- The average Interest rate is 12.05% with MoM increase of 3.5% and MTD of 12.36%
-- The Average Debt-to-income ratio is 13.33% with MoM increase of 2.7% and MTD of 13.67%
 
 ![Summary Report](https://github.com/user-attachments/assets/c1d58ba5-8213-4a33-ae78-0ee9592a0018)
 
+At the top, KPIs such as total applications, total funded amount, total amount received, average interest rate and average DTI are displayed alongside their month-over-month and month-to-date changes showing performance trends.
+
+
+- The total loan application is 38.6K with a month-over-month increase of 6.9% and month-to-date of 4.3K application. This indicates an positive trend in loan demand and that the bank is actively attracting new loan applicants.
+- The total funded amount by the bank is $435.8M with MoM increase of 13% and MTD of $54.0M. This shows that the bank is succesffully approving and funding a significant portion of loan applications.
+- The total amount received is $473.1M with MoM increase of 15.8% and MTD of $58.1M shows that repayments are coming in at a healthy pace
+- The average Interest rate is 12.05% with MoM increase of 3.5% and MTD of 12.36%
+- The Average Debt-to-income ratio is 13.33% with MoM increase of 2.7% and MTD of 13.67% further suggests that borrowers may have a relatively high level of existing debt. This could pose a risk to loan repayment.
+
 - Good Loans Issued vs Bad Loans Issued
 Out of the Total Applications of loans approved, 86.18% of them were good loans (i.e a payment plan has been paid fully or still ongoing). This is 33.2K of total applications and funded amount is $370.2M while the amount received is $435.8M.  This shows that adequate requirements and practices are being followed to ensure repayment of loans.
-Meanwhile, Bad Loans (5.3K) only amount to 13.82% of the total applications where $65.5M applications were funded and $37.3M was received back. 
+Meanwhile, Bad Loans (5.3K applications) only amount to 13.82% of the total applications where $65.5M applications were funded and $37.3M was received back.This is low compared to good loans but its still a potential area for risk management improvement. 
 
 ![Good Bad loans](https://github.com/user-attachments/assets/7ea52b30-654d-4423-9089-29ebadb2e391)
 
@@ -74,8 +77,12 @@ Meanwhile, Bad Loans (5.3K) only amount to 13.82% of the total applications wher
 
 ![Fully paid etc](https://github.com/user-attachments/assets/8ceef71d-2843-4650-9cb5-486fd7d65290)
 
+The dashboard provides a breakdown of loan performance based on the loan status. Majority of loan applications have been fully paid off indicating a positive trend while a smaller portion have been charged off and some loans are currently active and being repaid.
 
 ### Overview Dashboard 
+
+
+
 - Total Loan Application by Month
 
 ![Total loan by month](https://github.com/user-attachments/assets/fc4c0df5-f516-4e9d-a951-51dc8737eaac)
