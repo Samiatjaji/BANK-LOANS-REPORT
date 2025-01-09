@@ -9,7 +9,7 @@ This is an excel project on a bank loan data from the US in the year 2021. This 
 The dataset was downloaded from kaggle. Download [here](https://github.com/Samiatjaji/BANK-LOANS-REPORT/blob/main/financial_loan.csv)
 
 # Data Analysis process
-A series of steps must be carried out to interpret this information. The steps u used in this process are listed below:
+A series of steps must be carried out to interpret this information. The steps i used in this process are listed below:
 - Excel concept applied
 - Problem Statement 
 - Data Cleaning Process
@@ -44,7 +44,7 @@ All further analysis are in the design sheets of the interactive [dashboard](htt
 
 
 ## Visualisation
-I created a grid view report categorised by 'Loan status' in order to get a completely cover the data and hence enforce the right decisions on the bank's health Portfolio. 
+The whole visualisation was done using pivot charts in excel
 
 ### Summary Dashboard 
 
@@ -61,8 +61,7 @@ At the top, KPIs such as total applications, total funded amount, total amount r
 - The average Interest rate is 12.05% with MoM increase of 3.5% and MTD of 12.36%
 - The Average Debt-to-income ratio is 13.33% with MoM increase of 2.7% and MTD of 13.67% further suggests that borrowers may have a relatively high level of existing debt. This could pose a risk to loan repayment.
 
-- Good Loans Issued vs Bad Loans Issued
-
+- Good Loans Issued vs Bad Loans
 ![Good Bad loans](https://github.com/user-attachments/assets/3a58867b-3dbe-4e84-aa32-39b6c26b4d55)
 
 Out of the Total Applications of loans approved, 86.18% of them were good loans (i.e a payment plan has been paid fully or still ongoing). This is 33.2K of total applications and funded amount is $370.2M while the amount received is $435.8M.  This shows that adequate requirements and practices are being followed to ensure repayment of loans.
@@ -72,7 +71,8 @@ Meanwhile, Bad Loans (5.3K applications) only amount to 13.82% of the total appl
 
 ![Fully paid etc](https://github.com/user-attachments/assets/8ceef71d-2843-4650-9cb5-486fd7d65290)
 
-The dashboard provides a breakdown of loan performance based on the loan status. Majority of loan applications (32.1K) have been fully paid off ($351.4M) indicating a positive trend while a smaller portion (5.3K) have been charged off and some loans are currently active and being repaid (1.1K). The fully paid category has the highest funded amount ($351.4M) reflecting a significant volume of repaid loans while the "charged off" category has a funded amount of $65.5M representing a loss for the bank. The Interest rates vary across loan statuses with "current" loans generally having a higher interest rate (15.10%). The DTI also varies across loan statuses including potential risk factors associated with "charged off" (14.72%) 
+The dashboard provides a breakdown of loan performance based on the loan status using a grid view report in order to completely cover the data and hence enforce the right decisions on the bank's health Portfolio. 
+Majority of loan applications (32.1K) have been fully paid off ($351.4M) indicating a positive trend while a smaller portion (5.3K) have been charged off and some loans are currently active and being repaid (1.1K). The fully paid category has the highest funded amount ($351.4M) reflecting a significant volume of repaid loans while the "charged off" category has a funded amount of $65.5M representing a loss for the bank. The Interest rates vary across loan statuses with "current" loans generally having a higher interest rate (15.10%). The DTI also varies across loan statuses including potential risk factors associated with "charged off" (14.72%) 
 
 ### Overview Dashboard 
 
