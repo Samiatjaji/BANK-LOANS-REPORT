@@ -124,8 +124,7 @@ The chart shows the distribution of loan applicants based on the applicant's hom
 - The bank should consider adjusting its lending policies to cater to the needs of employees with different tenure levels.
 
 # Conclusion 
-Based on the available data, the bank appears to be performing well. The positive MTD growth in loan applications, funded amount and amount received indicates strong business activity. However, its important to monitor key metrics like interest....
-
+Based on the available data, the bank appears to be performing well. The positive MTD growth in loan applications, funded amount and amount received indicates strong business activity. However, its important to monitor key metrics like interest rates and DTI to ensure long-term financial health.
 
 
 
