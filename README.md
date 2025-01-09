@@ -115,15 +115,17 @@ The chart shows the distribution of loan applicants based on the applicant's hom
 
 
 # Insights
-
-
+- The $51.8M MTD amount received with a 15.8% MoM loan repayment are coming in at a healthy pace.
+- The average DTI of 13.33% suggests that borrowers may have a relatively high level of existing debt. This could pose a risk to loan repayment.
+- The higher proportion of good loans translates to higher profitability for the bank.
 
 # Recommendation
+- The bank may want to consider tightening lending criteria and enforce more proactive collection measures for borrowers with high DTI ratios.
+- The bank should consider adjusting its lending policies to cater to the needs of employees with different tenure levels.
+
+# Conclusion 
+Based on the available data, the bank appears to be performing well. The positive MTD growth in loan applications, funded amount and amount received indicates strong business activity. However, its important to monitor key metrics like interest....
 
 
 
 
-
-
-#
-Conclusion
