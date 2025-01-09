@@ -99,7 +99,7 @@ When it comes to Loan Term, Borrowers generally prefer short term loans to long 
 
 ![Total Loan by employee length](https://github.com/user-attachments/assets/e1700195-cd89-4091-b2cd-13ca7a6b280e)
 
-The chart shows that employees with longer tenure (10+ years) has a significant higher loan application rates (8.9K). However this growth is not consistent, it is notice that employees with 1 year length (3.2K) have more application rates more than employees of 6,7,8 and 9 years. This maybe due to the fact that these shorter lenth employees (<1,1,2,3,4,5) have more needs that their income can't afford so they tend to reach out for bank loans more.
+The chart shows that employees with longer tenure (10+ years) has a significant higher loan application rates (8.9K). However this growth is not consistent, it is noticed that employees with 1 year length (3.2K) have more application rates more than employees of 6,7,8 and 9 years. This maybe due to the fact that these shorter lenth employees (<1,1,2,3,4,5) have more needs that their income can't afford so they tend to reach out for bank loans more.
 
 - Total Loan Application by Purpose
 
