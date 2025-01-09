@@ -2,9 +2,8 @@
 
 ![form](https://github.com/user-attachments/assets/9996cfa9-abe0-42cf-86f3-180a29d460b4)
 
-BACK STORY year 2021
 # Introduction 
-This is an excel project on a bank loan data. This project is to analyse and derive insights to answer critical questions and allow these Insights/answers provided to be used to make better decisions going forward as a bank.
+This is an excel project on a bank loan data from the US in the year 2021. This project is to analyse and derive insights to answer critical questions and allow these Insights/answers provided to be used to make better decisions going forward as a bank.
 
 # Dataset used
 The dataset was downloaded from kaggle. Download [here](https://github.com/Samiatjaji/BANK-LOANS-REPORT/blob/main/financial_loan.csv)
@@ -17,11 +16,6 @@ A series of steps must be carried out to interpret this information. The steps u
 - Visualisation 
 - Communication and insights
 
-
-## Excel concepts applied are 
-
-
-
 ## Problem Statement 
 To analyse this data I would like to highlight the main focus, reasons and questions I will be answering with the data analysis process, to gain a comprehensive overview of the bank's lending operations and monitor the performance of loans.  
 This analysis will focus on:
@@ -32,7 +26,6 @@ This analysis will focus on:
 - Average interest rate 
 - Average Debt to income ratio (DTI)
 - Good Loans vs Bad Loans
-
 ### Secondary KPIs
 - Monthly Trends by Issue date
 - Regional analysis by state
@@ -107,23 +100,31 @@ When it comes to Loan Term, Borrowers generally prefer short term loans to long 
 
 ![Total Loan by employee length](https://github.com/user-attachments/assets/e1700195-cd89-4091-b2cd-13ca7a6b280e)
 
-
+The chart shows that employees with longer tenure (10+ years) has a significant higher loan application rates (8.9K). However this growth is not consistent, it is notice that employees with 1 year length (3.2K) have more application rates more than employees of 6,7,8 and 9 years. This maybe due to the fact that these shorter lenth employees (<1,1,2,3,4,5) have more needs that their income can't afford so they tend to reach out for bank loans more.
 
 - Total Loan Application by Purpose
 
 ![Total Loan by employee purpose](https://github.com/user-attachments/assets/8bb9f0f1-c3f7-44ee-ba41-bf6b41774909)
 
+This chart needs to be expanded more than this visualisation to show that Loans due to Debt Consolidation is the highest, This shows that a very high proportion of loan applications (18.2K) are driven by the need to consolidate debt. This is Followed by Credit card loans (5.0K).
 
 - Total Loan Application by Home ownership
 
 ![Total Loan by home](https://github.com/user-attachments/assets/b2347e6a-b13a-4f80-a93f-19dca8b73974)
 
-
-#Recommendation
-
+The chart shows the distribution of loan applicants based on the applicant's home ownership status. The largest segment represents individuals who rent their homes with 18.439 loan applications, this suggests that a significant portion of loan applicants are renters. The number of loan applications from homeowners (2,838) and those with mortgages (17,198) are lower compared to renters. This may be due to their finacial needs or the need to improve their credit history.
 
 
+# Insights
 
 
 
-#Conclusion
+# Recommendation
+
+
+
+
+
+
+#
+Conclusion
