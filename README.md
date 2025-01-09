@@ -10,7 +10,6 @@ The dataset was downloaded from kaggle. Download [here](https://github.com/Samia
 
 # Data Analysis process
 A series of steps must be carried out to interpret this information. The steps i used in this process are listed below:
-- Excel concept applied
 - Problem Statement 
 - Data Cleaning Process
 - Visualisation 
